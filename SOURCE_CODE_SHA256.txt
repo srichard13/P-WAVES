@@ -1,0 +1,6 @@
+# SHA-256 checksums of archived source-code files
+# Generated for the GitHub/reviewer archive.
+# These hashes verify that the source files were not modified during repository preparation.
+
+2be81ccd54346a3785218af3c6ac13ae91bd03ed4b5a15745565e317a27802a4  aeris/Aeris_humidity_step_V2a_nobufferlag(20261015-184321).py
+7bc2954afb6bba33ba2dd03afe5122ace24d057b46dafe4211b3ec45513d7132  picarro/Picarro_CFKADS2025_humidity_step_V2b (1)(1).py
